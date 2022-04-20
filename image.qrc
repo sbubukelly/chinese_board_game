@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/chessboard">
+        <file>chessboard.jpg</file>
+    </qresource>
+    <qresource prefix="/chess">
+        <file>Bing_black .png</file>
+        <file>Bing_red .png</file>
+        <file>Che_black .png</file>
+        <file>Che_red .png</file>
+        <file>Jiang_black .png</file>
+        <file>Jiang_red .png</file>
+        <file>Ma_black .png</file>
+        <file>Ma_red .png</file>
+        <file>Pao_black .png</file>
+        <file>Pao_red .png</file>
+        <file>Shi_black .png</file>
+        <file>Shi_red .png</file>
+        <file>Xiang_black .png</file>
+        <file>Xiang_red .png</file>
+        <file>transparent.png</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>Quit_btn.png</file>
+        <file>start_btn.png</file>
+        <file>login_background.png</file>
+        <file>vector-wood-texture.jpg</file>
+        <file>BoardEditor_btn.png</file>
+        <file>restart.png</file>
+        <file>Black_win.png</file>
+        <file>Red_win.png</file>
+    </qresource>
+</RCC>
